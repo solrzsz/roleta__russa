@@ -1,0 +1,29 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: black;
+background-size: cover;
+
+}
+button {
+    position: absolute;
+top: 40%;
+left: 40%;
+margin: 20px;
+color: black;
+border: 20px;
+}
+h1{
+position: absolute;
+align-self: center;
+top: 30%;
+left: 30%;
+color: white;
+}
+p {
+ font-size: 25px;
+    color:white;
+    font: bold;
+    position: absolute;
+top: 20%;
+left: 33%;    
+}
